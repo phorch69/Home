@@ -3,6 +3,8 @@ interface Props {
 	title: string;
 }
 const {title} = Astro.props
+
+import '../styles/Global.css';
 ---
 <!doctype html>
 <html lang="en">
@@ -10,9 +12,8 @@ const {title} = Astro.props
 		<meta charset="UTF-8" />
 		<link rel="icon" type="image/svg+xml" href="/Home/Logo-Tranparente.png" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-		<script src="https://cdn.jsdelivr.net/npm/animejs@3.2.1/lib/anime.min.js"></script>
-		<link rel="stylesheet" href="/src/styles/Global.css">
-		<script type="module" src="/src/components/Global.js"></script>
+		<!-- <script type="module" src="/src/components/Global.js"></script> -->
+		<script src="/src/components/Global.js"></script>
 		<title>{title}</title>
 	</head>
 	<body>

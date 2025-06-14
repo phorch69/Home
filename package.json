@@ -1,7 +1,7 @@
 {
   "name": "6p9-home",
   "type": "module",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "scripts": {
     "dev": "npx astro dev",
     "build": "npx astro build",
@@ -10,7 +10,7 @@
     "deploy": "npx astro build && touch dist/.nojekyll && gh-pages -d dist"
   },
   "dependencies": {
-    "astro": "^5.7.4"
+    "astro": "^5.9.3"
   },
   "devDependencies": {
     "gh-pages": "^6.3.0"

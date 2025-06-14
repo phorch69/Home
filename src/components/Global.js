@@ -99,11 +99,4 @@ rightBtn.addEventListener('click', function() {
 });
 
 // -- Modelos 3D -- //
-
-anime({
-  targets: '#titulo',
-  translateY: [-100, 0],
-  opacity: [0, 1],
-  duration: 2000,
-  easing: 'easeOutElastic(1, .8)'
-});  
+ 
