@@ -557,7 +557,7 @@ footer p {
 #img-I-J{
   background-image: url(/public/bonus/Img-1.jpg);
 }
-
+/* 
 .index .circle {
   width: 90px;
   height: 90px;
@@ -584,7 +584,7 @@ footer p {
   width: 30px;
   height: 30px;
   animation-delay: -1800ms;
-}
+} */
 
 @keyframes floating {
   0% {

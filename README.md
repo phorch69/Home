@@ -3,7 +3,7 @@
 Una breve descripción de una o dos líneas que resuma qué hace tu proyecto y por qué es útil o interesante.
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Version](https://img.shields.io/badge/version-0.0.4-green.svg)
+![Version](https://img.shields.io/badge/version-0.0.5-green.svg)
 ![Build](https://img.shields.io/badge/Proyecto-En_Proceso-brightgreen)
 
 ---
