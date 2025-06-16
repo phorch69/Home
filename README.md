@@ -1,9 +1,9 @@
-# Nombre del Proyecto
+# Home - 6P9
 
-Una breve descripción de una o dos líneas que resuma qué hace tu proyecto y por qué es útil o interesante.
+Aca veran los cambios y la introduccion de mis proyectos con sus novedades
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Version](https://img.shields.io/badge/version-0.0.5-green.svg)
+![Version](https://img.shields.io/badge/version-0.0.6-green.svg)
 ![Build](https://img.shields.io/badge/Proyecto-En_Proceso-brightgreen)
 
 ---
@@ -19,13 +19,7 @@ Una breve descripción de una o dos líneas que resuma qué hace tu proyecto y p
 
 ## Descripción
 
-Este proyecto tiene como objetivo ser el sitio principal para que puedan ver mis proyectos y como se realizo. Es ideal para [casos de uso, público objetivo] y está construido con [tecnologías clave].
-
-<!-- ### Características
-- Portafolio
-- Contacto
-- ✅ Compatible con [sistemas/entornos]
-- ✅ Fácil de usar y personalizar -->
+Este proyecto tiene como objetivo ser el sitio principal para que puedan ver mis proyectos y como se realizo para el que este interezado. Ademas de que está construido con Astro de forma Vanilla.
 
 ### 🚀 Visualizacion
 - [![Home](https://img.shields.io/badge/phorch69-Visualizacion-brightgreen)](https://phorch69.github.io/Home)
