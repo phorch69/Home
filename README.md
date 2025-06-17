@@ -3,7 +3,7 @@
 Aca veran los cambios y la introduccion de mis proyectos con sus novedades
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Version](https://img.shields.io/badge/version-0.0.6-green.svg)
+![Version](https://img.shields.io/badge/version-0.0.7-green.svg)
 ![Build](https://img.shields.io/badge/Proyecto-En_Proceso-brightgreen)
 
 ---

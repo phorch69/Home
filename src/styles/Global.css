@@ -352,7 +352,7 @@ footer p {
   z-index: -1;
   display: block;
   object-fit: cover;
-  background-image: url("/public/bonus/Img-1.jpg");
+  background-image: url("/Home/bonus/Img-1.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -547,15 +547,15 @@ footer p {
 }
 
 #img-F-E{
-  background-image: url(/public/bonus/Img-1.jpg);
+  background-image: url(/Home/bonus/Img-1.jpg);
 }
 
 #img-B-E{
-  background-image: url(/public/bonus/Img-1.jpg);
+  background-image: url(/Home/bonus/Img-1.jpg);
 }
 
 #img-I-J{
-  background-image: url(/public/bonus/Img-1.jpg);
+  background-image: url(/Home/bonus/Img-1.jpg);
 }
 /* 
 .index .circle {
@@ -704,7 +704,7 @@ footer p {
   z-index: -1;
   display: block;
   object-fit: cover;
-  background-image: url("/public/bonus/Img-1.jpg");
+  background-image: url("/Home/bonus/Img-1.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;

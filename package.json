@@ -1,7 +1,7 @@
 {
   "name": "6p9-home",
   "type": "module",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "scripts": {
     "dev": "npx astro dev",
     "build": "npx astro build",
