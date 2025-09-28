@@ -8,8 +8,8 @@ yarn-debug.log*
 yarn-error.log*
 
 # Dependencias de producción instaladas con npm ci
-package-lock.json
-yarn.lock
+#package-lock.json
+#yarn.lock
 
 # Directorios de dependencias o cachés locales de npm
 .npm/
